@@ -26,4 +26,5 @@
 12. Whenever you are using attributes in current class, then use constructor stuff, whenever you are taking any object as input in any class method, over there use methods like getter and setter to get attributes.
 13. If you do fuzzy testing, then you might end up with really big random numbers, hence try to using long int data-types while testing. This problem is known as **Overflow**.
 14. All the answers to the quiz are in module information and labwork. Try to leverage that.
-15. Re-read the design principles and understand them thoroghly.
+15. One-test one objective!
+16. Re-read the design principles and understand them thoroghly.
