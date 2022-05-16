@@ -18,4 +18,12 @@
 6. **The best way to write tests is to write tests before you write the code itself.**
 7. **Man, the quizes are from module contents, just keep eye on the code and you will be fine!!!**
 8. Redo Amit Shesh's Lectures!
-9. 
+9. Try extensively test your code, by writing all the possible senarios.
+10. Also see, how to get coverage more than 95% in eclipse.
+11. **What Is Java Fuzzing?** 
+  - Fuzzing is an automated testing technique that can be used to detect bugs and vulnerabilities in Java applications. 
+  - During fuzz testing, random inputs are fed to the software under test until a crash happens, or the inputs reach a new program state.
+12. Whenever you are using attributes in current class, then use constructor stuff, whenever you are taking any object as input in any class method, over there use methods like getter and setter to get attributes.
+13. If you do fuzzy testing, then you might end up with really big random numbers, hence try to using long int data-types while testing. This problem is known as **Overflow**.
+14. All the answers to the quiz are in module information and labwork. Try to leverage that.
+15. Re-read the design principles and understand them thoroghly.
